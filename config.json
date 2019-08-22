@@ -1,0 +1,26 @@
+{
+  "env":{
+    "application1":{
+      "dev":{"url":""},
+      "sit":{"url":""},
+      "prod":{"url":""}
+    },
+    "application1":{
+      "dev":{"url":""},
+      "sit":{"url":""},
+      "prod":{"url":""}
+    }
+
+  },
+  "services": {
+    "service1":{
+      "end_points":{
+        "your_endpoint_1": ""
+      }
+    },
+    "service2": {
+
+    }
+  },
+  "headers":{}
+}
